@@ -1,0 +1,39 @@
+# Phase 1: Variables & Data Types 🧠
+
+In this section, I am learning how Python stores information in the computer's memory.
+
+### 📝 Key Takeaways:
+1. **Dynamic Typing:** Python automatically detects if a variable is a number, text, or logic.
+2. **Variable Naming:** I am using `snake_case` (e.g., `user_name`) which is the professional standard for Python.
+3. **Data Types:**
+   - `int`: Whole numbers (e.g., Number of stocks).
+   - `float`: Decimals (e.g., Stock price).
+   - `str`: Text (e.g., Company name).
+   - `bool`: Logic (e.g., Is market open?).
+
+### 💡Concept: Memory Allocation
+When I create a variable, the computer allocates a small "bucket" in RAM to hold that specific value.
+
+
+# --- LESSON 1: THE BASICS ---
+
+# 1. Defining Variables (Storing data in memory)
+index_name = "NIFTY 50"       # String (str)
+current_value = 22123.45      # Float (float)
+companies_count = 50          # Integer (int)
+is_market_bullish = True      # Boolean (bool)
+
+# 2. Outputting Data (Using f-strings for clean display)
+print(f"Index: {index_name}")
+print(f"Current Value: {current_value}")
+print(f"Number of Companies: {companies_count}")
+
+# 3. Dynamic Changes
+# Let's simulate the market moving up by 10 points
+new_value = current_value + 10.50
+print(f"Updated {index_name} Value: {new_value}")
+
+# 4. Checking Data Types (The 'type' function)
+# As a CS student, it's vital to know what type you are working with
+print(f"Data type of index_name: {type(index_name)}")
+print(f"Data type of current_value: {type(current_value)}")
