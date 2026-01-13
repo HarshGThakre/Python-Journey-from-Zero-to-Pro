@@ -1,4 +1,3 @@
-
 # 🐍 Python: Zero to Pro Journey
 **Author:** Harsh G. Thakre
 ---
