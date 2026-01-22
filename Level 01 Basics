@@ -6,10 +6,10 @@ In this section, I am learning how Python stores information in the computer's m
 1. **Dynamic Typing:** Python automatically detects if a variable is a number, text, or logic.
 2. **Variable Naming:** I am using `snake_case` (e.g., `user_name`) which is the professional standard for Python.
 3. **Data Types:**
-   - `int`: Whole numbers (e.g., Number of stocks).
-   - `float`: Decimals (e.g., Stock price).
-   - `str`: Text (e.g., Company name).
-   - `bool`: Logic (e.g., Is market open?).
+   - "int": Whole numbers (e.g., Number of stocks).
+   - "float": Decimals (e.g., Stock price).
+   - "str": Text (e.g., Company name).
+   - "bool": Logic (e.g., Is market open?).
 
 ### 💡Concept: Memory Allocation
 When I create a variable, the computer allocates a small "bucket" in RAM to hold that specific value.
