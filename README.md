@@ -1,5 +1,5 @@
 # 🐍 Python: Zero to Pro Journey
-**Author:** Harsh G. Thakre
+**Author:** Harsh Thakre
 ---
 
 ## 🗺 The Roadmap
