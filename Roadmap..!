@@ -1,0 +1,13 @@
+Python-Mastery-Journey/
+│
+├── 01_Foundations/          # Variables, Data Types, Basic Loops
+├── 02_Data_Structures/      # Lists, Dicts, Tuples, Sets, Stacks/Queues
+├── 03_Functions_Modules/    # Clean code, Scope, Lambda, Imports
+├── 04_OOP_Principles/       # Classes, Inheritance, Decorators
+├── 05_Advanced_Python/      # Generators, Iterators, Context Managers
+├── 06_Data_Processing/      # Pandas, NumPy, JSON/CSV handling
+├── 07_Web_&_APIs/           # Flask/FastAPI, Requests, Web Scraping
+├── 08_Automation_Scripts/   # Real-world utility tools
+├── 09_Capstone_Projects/    # The "Pro" level complex projects
+├── README.md                # Your "Mission Statement"
+└── requirements.txt         # All dependencies
